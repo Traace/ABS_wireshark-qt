@@ -7,7 +7,8 @@
 pkgbase=wireshark
 pkgname=('wireshark-cli' 'wireshark-qt')
 pkgver=3.2.2
-pkgrel=1
+pkgrel=10
+groups=('modified')
 pkgdesc='Network traffic and protocol analyzer/sniffer'
 url='https://www.wireshark.org/'
 arch=('x86_64')
